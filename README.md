@@ -25,3 +25,7 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 
 $ npm i tachyons tachyons-debug
+
+## Add JavaScript Libraries from npm to Nuxt
+
+$ npm i axios
