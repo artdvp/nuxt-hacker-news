@@ -20,3 +20,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## Add a CSS Library from npm to Nuxt
+
+
+$ npm i tachyons tachyons-debug

@@ -20,11 +20,15 @@ module.exports = {
   /*
   ** Build configuration
   */
-  build: {
+  css: [
+    "tachyons/css/tachyons.min.css",
+    "tachyons-debug/css/tachyons-debug.min.css"
+  ]
+  /*build: {
     /*
     ** Run ESLint on save
     */
-    extend (config, ctx) {
+    /*extend (config, ctx) {
       if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
           enforce: 'pre',
@@ -34,5 +38,5 @@ module.exports = {
         })
       }
     }
-  }
+  }*/
 }
