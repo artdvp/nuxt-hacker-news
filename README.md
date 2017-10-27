@@ -29,3 +29,9 @@ $ npm i tachyons tachyons-debug
 ## Add JavaScript Libraries from npm to Nuxt
 
 $ npm i axios
+
+## Create a Vuex Store for Global Data in Nuxt
+
+## Load Data into the Vuex Store in Nuxt
+
+## Access the Router Params to Load Page-Specific Data in Vue.js and Nuxt
