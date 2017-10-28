@@ -45,3 +45,8 @@ $ npm i axios
 ## Register Vue.js Filters as Plugins in Nuxt
 
 ## Style Navigation Based on Route in Nuxt
+
+## Display Only Available Data in Vue.js and Nuxt
+
+npm install --save-dev date-fns
+npm install --save-dev url
