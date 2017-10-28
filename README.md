@@ -37,3 +37,5 @@ $ npm i axios
 ## Access the Router Params to Load Page-Specific Data in Vue.js and Nuxt
 
 ## Build Global Navigation with Layouts and nuxt-link in Nuxt
+
+## Create CSS Transition Effects in Vue.js and Nuxt
