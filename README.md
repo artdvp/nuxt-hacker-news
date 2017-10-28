@@ -43,3 +43,5 @@ $ npm i axios
 ## Style a List and List Items in Vue.js and Nuxt
 
 ## Register Vue.js Filters as Plugins in Nuxt
+
+## Style Navigation Based on Route in Nuxt
