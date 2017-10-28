@@ -10,8 +10,8 @@
 </template>
 
 <script>
-  //import axios from "~/plugins/axios"
-  import { mapState } from "vuex"
+  // import axios from "~/plugins/axios"
+  import { mapState } from 'vuex'
   export default {
     // asyncData(){
     //   return axios.get("users")
@@ -20,9 +20,9 @@
     //   }))
     // }
     computed: mapState([
-      "users",
-      "ids",
-      "items"
+      'users',
+      'ids',
+      'items'
     ])
   }
 </script>

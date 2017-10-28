@@ -35,3 +35,5 @@ $ npm i axios
 ## Load Data into the Vuex Store in Nuxt
 
 ## Access the Router Params to Load Page-Specific Data in Vue.js and Nuxt
+
+## Build Global Navigation with Layouts and nuxt-link in Nuxt
