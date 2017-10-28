@@ -18,12 +18,9 @@
 
         <template v-if="item.descendants">
            <div class="comments">
-          {{item.descendants}} comments
+          <nuxt-link :to="'/item/'+ item.id">{{item.descendants}} comments</nuxt-link>
           </div>
-   
-        </template> 
-
-       
+        </template>       
       </li>
     </ul>
 

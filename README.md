@@ -52,3 +52,5 @@ npm install --save-dev date-fns
 npm install --save-dev url
 
 ## Display a User Data Page Based on id in Vue.js and Nuxt
+
+## Build a Recursive Component for Nested Comments in Vue.js and Nuxt
