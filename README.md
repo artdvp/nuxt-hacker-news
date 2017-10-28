@@ -39,3 +39,7 @@ $ npm i axios
 ## Build Global Navigation with Layouts and nuxt-link in Nuxt
 
 ## Create CSS Transition Effects in Vue.js and Nuxt
+
+## Style a List and List Items in Vue.js and Nuxt
+
+## Register Vue.js Filters as Plugins in Nuxt

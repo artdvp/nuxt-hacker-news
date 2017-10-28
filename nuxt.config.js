@@ -38,7 +38,8 @@ module.exports = {
     //     })
     //   }
     // }
-  }
+  },plugins: ["~/plugins/filters"]
+
   /*build: {
     /*
     ** Run ESLint on save
