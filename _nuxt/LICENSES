@@ -1,19 +1,11 @@
 /*!
- * @overview es6-promise - a tiny implementation of Promises/A+.
- * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
- * @license   Licensed under MIT license
- *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
- * @version   4.1.1
- */
-
-/*!
- * Vue.js v2.4.4
- * (c) 2014-2017 Evan You
+ * Vue.js v2.5.17
+ * (c) 2014-2018 Evan You
  * Released under the MIT License.
  */
 
 /**
- * vuex v2.5.0
+ * vuex v3.0.1
  * (c) 2017 Evan You
  * @license MIT
  */
@@ -25,9 +17,17 @@
  * @license  MIT
  */
 
+/*!
+ * @overview es6-promise - a tiny implementation of Promises/A+.
+ * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
+ * @license   Licensed under MIT license
+ *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
+ * @version   v4.2.5+7f2b526d
+ */
+
 /**
- * vue-meta v1.2.0
- * (c) 2017 Declan de Wet
+ * vue-meta v1.5.5
+ * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
@@ -36,3 +36,5 @@ object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
